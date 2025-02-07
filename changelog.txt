@@ -1,15 +1,8 @@
-v0.1.0-beta - 2025-01-01
-- Inisialisasi bot Telegram yang menghubungkan WhatsApp
-- Fitur dasar pairing dan remove nomor WhatsApp
+## v1.1.0 - 07 Februari 2025
+- Penambahan fitur broadcast message
+- Optimasi sistem penyimpanan chatId
+- Perbaikan bug kecil di command /changelog
 
-v0.2.0-beta - 2025-01-15
-- Menambahkan perintah /status untuk melihat status bot dan nomor yang terhubung
-- Memperbaiki beberapa bug kecil di proses pairing nomor
-
-v0.3.0-beta - 2025-02-01
-- Menambahkan fitur untuk menampilkan gambar acak di /menu
-- Optimasi koneksi ulang bot saat terputus
-
-v0.4.0-beta - 2025-02-03
-- Menambahkan fitur changelog yang dapat diakses dengan perintah /changelog
-- Menambahkan fitur clearlogs pada bot
+## v1.0.0 - 01 Februari 2025
+- Rilis pertama bot Telegram
+- Fitur pairing dengan bot WhatsApp
