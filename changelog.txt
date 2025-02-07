@@ -1,8 +1,15 @@
 ## v1.1.0 - 07 Februari 2025
 - Penambahan fitur broadcast message
-- Optimasi sistem penyimpanan chatId
-- Perbaikan bug kecil di command /changelog
+- Optimasi penyimpanan chatId pengguna
+- Perbaikan bug pada command /changelog
+- Peningkatan performa bot secara keseluruhan
 
 ## v1.0.0 - 01 Februari 2025
 - Rilis pertama bot Telegram
-- Fitur pairing dengan bot WhatsApp
+- Fitur pairing dengan bot WhatsApp menggunakan command /pairing dan /remove
+- Integrasi dengan bot WhatsApp melalui WhiskeySockets/Baileys
+- Penambahan fitur serangan dengan payload khusus
+
+## v0.9.0 - 27 Januari 2025
+- Pengembangan awal bot Telegram
+- Integrasi dasar dengan bot WhatsApp
